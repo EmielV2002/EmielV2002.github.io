@@ -1,81 +1,47 @@
-<div align="center">
+**Privacy Policy**
 
-  # Chirpy Jekyll Theme
+This privacy policy applies to the mondrianVIZ app (hereby referred to as "Application") for mobile devices that was created by HAN (hereby referred to as "Service Provider") as an Open Source service. This service is intended for use "AS IS".
 
-  A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+**What information does the Application obtain and how is it used?**
 
-  [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)][gem]&nbsp;
-  [![CI](https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml/badge.svg?branch=master&event=push)][ci]&nbsp;
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/4e556876a3c54d5e8f2d2857c4f43894)][codacy]&nbsp;
-  [![GitHub license](https://img.shields.io/github/license/cotes2020/jekyll-theme-chirpy.svg)][license]&nbsp;
-  [![996.icu](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg)](https://996.icu)
+The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
-  [**Live Demo** →][demo]
+**Does the Application collect precise real time location information of the device?**
 
-  [![Devices Mockup](https://chirpy-img.netlify.app/commons/devices-mockup.png)][demo]
+This Application does not collect precise information about the location of your mobile device.
 
-</div>
+**Do third parties see and/or have access to information obtained by the Application?**
 
-## Features
+Since the Application does not collect any information, no data is shared with third parties.
 
-- Dark / Light Theme Mode
-- Localized UI language
-- Pinned Posts on Home Page
-- Hierarchical Categories
-- Trending Tags
-- Table of Contents
-- Last Modified Date
-- Syntax Highlighting
-- Mathematical Expressions
-- Mermaid Diagrams & Flowcharts
-- Dark / Light Mode Images
-- Embed Videos
-- Disqus / Giscus / Utterances Comments
-- Built-in Search
-- Atom Feeds
-- PWA
-- Google Analytics
-- SEO & Performance Optimization
+**What are my opt-out rights?**
 
-## Documentation
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
-To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
+**Children**
 
-## Contributing
+The Application is not used to knowingly solicit data from or market to children under the age of 13.
 
-Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
-to learn, inspire, and create. Any contributions you make are greatly appreciated.
-For details, see the "[Contributing Guidelines][contribute-guide]".
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (thatsalotofbees69@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
-## Credits
+**Security**
 
-### Contributors
+The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
 
-Thanks to [all the contributors][contributors] involved in the development of the project!
+**Changes**
 
-[![all-contributors](https://contrib.rocks/image?repo=cotes2020/jekyll-theme-chirpy&columns=16)][contributors]
-<sub> —— Made with [contrib.rocks](https://contrib.rocks)</sub>
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-### Third-Party Assets
+This privacy policy is effective as of 2025-11-19
 
-This project is built on the [Jekyll][jekyllrb] ecosystem and some [great libraries][lib], and is developed using [VS Code][vscode] as well as tools provided by [JetBrains][jetbrains] under a non-commercial open-source software license.
+**Your Consent**
 
-The avatar and favicon for the project's website are from [ClipartMAX][clipartmax].
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
 
-## License
+**Contact Us**
 
-This project is published under [MIT License][license].
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at thatsalotofbees69@gmail.com.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[ci]: https://github.com/cotes2020/jekyll-theme-chirpy/actions/workflows/ci.yml?query=event%3Apush+branch%3Amaster
-[codacy]: https://app.codacy.com/gh/cotes2020/jekyll-theme-chirpy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade
-[license]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
-[jekyllrb]: https://jekyllrb.com/
-[clipartmax]: https://www.clipartmax.com/middle/m2i8b1m2K9Z5m2K9_ant-clipart-childrens-ant-cute/
-[demo]: https://cotes2020.github.io/chirpy-demo/
-[wiki]: https://github.com/cotes2020/jekyll-theme-chirpy/wiki
-[contribute-guide]: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/CONTRIBUTING.md
-[contributors]: https://github.com/cotes2020/jekyll-theme-chirpy/graphs/contributors
-[lib]: https://github.com/cotes2020/chirpy-static-assets
-[vscode]: https://code.visualstudio.com/
-[jetbrains]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
+* * *
+
+This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
